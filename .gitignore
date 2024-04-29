@@ -1,4 +1,5 @@
 client/node_modules/
 server/node_modules/
-server/.env
-client/.env
+PORT = "5000"
+CONNECTION_URL = "mongodb+srv://nitin45344:nitin12@cluster0.trozsd9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+JSON_SECRET = nitin
